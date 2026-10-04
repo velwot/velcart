@@ -1,0 +1,38 @@
+[
+  {
+    "canonicalName": "Parabens",
+    "aliases": ["Methylparaben", "Propylparaben", "Butylparaben", "Ethylparaben"],
+    "category": "Preservative",
+    "concernLevel": "high",
+    "description": "Widely used synthetic preservatives in cosmetics and personal care products with endocrine-disrupting potential.",
+    "evidenceSummary": "Exhibits estrogen-like properties and has been detected in human breast tumor tissues.",
+    "sources": ["European Commission SCCS", "PubMed ID: 14745841", "EWG Skin Deep"]
+  },
+  {
+    "canonicalName": "Sodium Lauryl Sulfate",
+    "aliases": ["SLS", "Sulfuric acid monododecyl ester sodium salt"],
+    "category": "Surfactant",
+    "concernLevel": "moderate",
+    "description": "An anionic surfactant commonly used in cleansing agents, known to cause skin and eye irritation in sensitive individuals.",
+    "evidenceSummary": "Documented skin irritant that strips lipid barrier at concentrations above 1%.",
+    "sources": ["International Journal of Toxicology", "CIR Safety Review"]
+  },
+  {
+    "canonicalName": "Aqua",
+    "aliases": ["Water", "Purified Water", "Eau"],
+    "category": "Solvent",
+    "concernLevel": "low",
+    "description": "Standard solvent and carrier in personal care formulations.",
+    "evidenceSummary": "Universal safe solvent with zero toxicity.",
+    "sources": ["CosIng Database", "INCI Dictionary"]
+  },
+  {
+    "canonicalName": "Glycerin",
+    "aliases": ["Glycerol", "Propane-1,2,3-triol"],
+    "category": "Humectant",
+    "concernLevel": "low",
+    "description": "Naturally occurring humectant that draws water into the skin's outer layer.",
+    "evidenceSummary": "Demonstrated non-toxic, safe, and effective moisturizer in extensive trials.",
+    "sources": ["CIR Safety Review", "FDA GRAS"]
+  }
+]

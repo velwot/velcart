@@ -1,0 +1,8 @@
+{
+  "name": "PureScan",
+  "description": "Clean, independent ingredient and product toxicant analysis app",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
